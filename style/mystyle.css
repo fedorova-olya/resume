@@ -221,8 +221,23 @@ footer {
 
     }
 
+    .nav>li {
+        margin-right: 35px;
+
+    }
+
     .nav>li>a {
         font-size: 15px;
         padding: 5px;
+    }
+
+    .footer {
+        float: none;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .soc>li {
+        margin: 15px 5px 0 5px;
     }
 }
